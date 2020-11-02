@@ -1,6 +1,5 @@
 ;Programa: Ejercicio 21/10/2020
 ;Propósito: Dibujar píxeles pseudoaleatorios en una fila y columna determinada, y cambiar el color teniendo en cuenta el timer
-;Autores: Guillermo Díaz, David Fuentes, Raúl Benito, Francisco García-Morales
 ;Fecha: 25/10/2020
 
 ;OBSERVACIÓN 1: No sabíamos a qué se refería el enunciado con lo de fila 1 y fila 2, así que hemos usado el
